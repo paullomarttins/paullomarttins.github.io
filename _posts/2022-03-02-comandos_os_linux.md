@@ -1,10 +1,8 @@
 ---
 layout: post
 author: Paulo Martins
-title: Comandos para OS Linux
+title: Comandos para OS Linux - Dicas
 ---
-
-# Comandos para OS Linux :: Dicas
 
 Navegando na internet me deparei com essa tabela onde constam vários comandos e sua sintaxe para OS Linux, para um iniciante isso é um ótimo ponto de partida, então achei legal compartilhar. Isso é bastante útil pois possui muitos comandos comuns que podem ser usados no dia-dia caso não se lembre, caso queria ir mais fundo, você pode contar com o --help e o man de cada comando para destrinchar suas funcionalidades. 
 
