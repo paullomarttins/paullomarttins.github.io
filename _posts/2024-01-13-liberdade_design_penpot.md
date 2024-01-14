@@ -40,7 +40,7 @@ Password:
 Created: teste@teste.org
 ```
 
-Para deletar um usuário use comando _delete-profile_:
+Para deletar um usuário use o comando _delete-profile_:
 
 ```bash
 ~ $ docker exec -ti penpot-penpot-backend-1 python3 ./manage.py delete-profile
