@@ -4,7 +4,7 @@ author: Paulo Martins
 title: Liberdade no Design - Penpot
 ---
 
-O [Penpot](https://penpot.app/) é uma alternativa às ferramentas propritárias como o **Figma** para design, totalmente livre e de código aberto. Com o **Penpot** é possível criar ou melhorar o design da sua aplicação e dos seus dashboads, caso você trabalhe com analise de dados assim como eu.
+O [Penpot](https://penpot.app/) é uma alternativa às ferramentas propritárias como o **Figma** para design, totalmente livre e de código aberto. Com o **Penpot** é possível criar ou melhorar o design da sua aplicação e dos seus dashboads, caso você trabalhe com analise de dados assim como eu. Com o Penpot temos a possibilidade de criação de equipes para que as pessoas trabalhem juntas em projetos e arquivos, nas configurações de equipes podemos definir perfis de trabalho para cada membro adicionado.   
 
 ![Design Freedom - Penpot!](/assets/penpot.png "Penpot")
 
