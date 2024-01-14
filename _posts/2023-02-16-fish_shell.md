@@ -1,5 +1,7 @@
 ---
+layout: post
 title: Finalmente, um shell de linha de comando para os anos 90
+author: Paulo Martins
 published: true
 ---
 

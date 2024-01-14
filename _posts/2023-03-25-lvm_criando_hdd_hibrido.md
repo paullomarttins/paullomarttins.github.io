@@ -1,5 +1,7 @@
 ---
+layout: post
 title: LVM – Criando um HDD híbrido
+author: Paulo Martins
 published: true
 ---
 

@@ -1,5 +1,7 @@
 ---
+layout: post
 title: Recriando servidor local open-source - Sucateando
+author: Paulo Martins
 published: true
 ---
 

@@ -1,5 +1,7 @@
 ---
+layout: post
 title: Criptografar disco inteiro GNU/Linux
+author: Paulo Martins
 published: true
 ---
 

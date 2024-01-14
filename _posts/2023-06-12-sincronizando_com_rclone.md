@@ -1,5 +1,7 @@
 ---
+layout: post
 title: Sincronizando pasta local para nuvem com Rclone
+author: Paulo Martins
 published: true
 ---
 

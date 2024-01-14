@@ -1,5 +1,7 @@
 ---
+layout: post
 title: Manipulando arquivo swapfile
+author: Paulo Martins
 published: true
 ---
 

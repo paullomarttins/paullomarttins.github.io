@@ -1,5 +1,7 @@
 ---
+layout: post
 title: Gravando pendrive bootavél com DD
+author: Paulo Martins
 published: true
 ---
 

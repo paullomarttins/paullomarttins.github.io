@@ -1,5 +1,7 @@
 ---
+layout: post
 title: ADBlock Pi - Dando adeus às propagandas
+author: Paulo Martins
 published: true
 ---
 
