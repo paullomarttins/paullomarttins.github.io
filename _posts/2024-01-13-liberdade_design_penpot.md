@@ -50,6 +50,6 @@ Deleted
 
 Quem já utiliza outras ferramentas proprietárias similares ao **Penpot** não terá muita dificuldade na sua utilização, com muitas funcionalidades e recursos disponivéis o Penpot não fica para trás de nenhuma forma. Segue o [link](https://help.penpot.app/user-guide/) da documentação que é muito completa onde você poderá dar os primeiros passos nessa ferramenta incrível.
 
-Fonte: [https://penpot.app](https://penpot.app/)
-Guia instalação: [https://help.penpot.app/technical-guide/getting-started/](https://help.penpot.app/technical-guide/getting-started/)
-Documentação: [https://help.penpot.app/user-guide](https://help.penpot.app/user-guide/)
+- Fonte: [https://penpot.app](https://penpot.app/)
+- Guia instalação: [https://help.penpot.app/technical-guide/getting-started/](https://help.penpot.app/technical-guide/getting-started/)
+- Documentação: [https://help.penpot.app/user-guide](https://help.penpot.app/user-guide/)
