@@ -6,6 +6,8 @@ title: Liberdade no Design - Penpot
 
 O [Penpot](https://penpot.app/) é uma alternativa às ferramentas propritárias como o **Figma** para design, totalmente livre e de código aberto. Com o **Penpot** é possível criar ou melhorar o design da sua aplicação e dos seus dashboads, caso você trabalhe com analise de dados assim como eu.
 
+![Design Freedom - Penpot!](/assets/penpot.png "Penpot")
+
 _"Penpot is the Open-Source Design & Prototyping Tool for Product Teams"_
 
 Para instalar o Penpot é muito fácil, com a possibilidade de instalação via Docker se torna ainda mais tranquilo. Abaixo vou mostar o que é preciso para essa instalação, caso ainda não possua o **Docker** na sua máquina, aconselho seguir o passo a passo da instalação na documentação [link](https://docs.docker.com/get-docker/):
@@ -23,6 +25,8 @@ Após baixar o arquivo de configuração, iremos subir o container:
 ```
 
 Finalizando o deploy do container acesse o Penpot através do link [http://localhost:9001](http://localhost:9001).
+
+![Design Freedom - Penpot!](/assets/penpot2.png "Penpot")
 
 Para parar o container execute:
 
