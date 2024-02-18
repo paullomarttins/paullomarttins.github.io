@@ -11,7 +11,7 @@ I like GNU/Linux, free software is the way. My permissions are read and write, a
 
 ## Contato
 Email me, [paulomartins@linux-br.org](mailto:paulomartins@linux-br.org).
-- Site: [LiberaDados.org](https://liberadados.org) (Offline)
+- Site: [LiberaDados.org](https://liberadados.org) (_Offline_)
 
 Profiles:
    - [twitter](https://twitter.com/_paulluss)
