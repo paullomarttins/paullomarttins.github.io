@@ -1,5 +1,5 @@
 title: Paulo Martins-Blog
-description: "Malinando em computadores desde 1998"
+description: "Nos computadores desde 1998"
 author:
   name: "Paulo Martins"
   email: "someone@somewebsite.somedomain"
@@ -21,6 +21,10 @@ defaults:
     values:
       layout: "post"
 
+timezone: "America/Sao_Paulo"
+locale: "pt_BR"
+lang: "pt"
+
 future: true
 plugins:
   - jekyll-seo-tag
@@ -28,5 +32,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "Paulo_Martins"
+owner : "Paulo Martins"
 year : {{ currentyear }}
