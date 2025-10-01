@@ -1,5 +1,5 @@
 /*
-   original: https://github.com/pages-themes/hacker 
+   original: https://github.com/pages-themes/hacker
 */
 
 @import "rouge-base16-dark";
@@ -82,7 +82,7 @@ header h1 {
 header h2 {
   font-size: 18px;
   font-weight: 300;
-  color: #666;
+  color: #9999a1;
 }
 
 /* Main Content
@@ -243,6 +243,10 @@ a:active, a:focus {
   outline: 0;
   border: none;
   -moz-outline-style: none
+}
+
+.title-header a {
+    text-decoration: none;
 }
 
 /* Clearfix */
