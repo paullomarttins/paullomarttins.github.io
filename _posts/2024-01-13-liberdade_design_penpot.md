@@ -4,13 +4,13 @@ author: Paulo Martins
 title: Liberdade no Design - Penpot
 ---
 
-O [Penpot](https://penpot.app/) é uma alternativa às ferramentas propritárias como o **Figma** para design, totalmente livre e de código aberto. Com o **Penpot** é possível criar ou melhorar o design da sua aplicação e dos seus dashboads, caso você trabalhe com analise de dados assim como eu. Com o Penpot temos a possibilidade de criação de equipes para que as pessoas trabalhem juntas em projetos e arquivos, nas configurações de equipes podemos definir perfis de trabalho para cada membro adicionado.   
+O [Penpot](https://penpot.app/) é uma alternativa às ferramentas proprietárias, como o **Figma**, para design. É totalmente livre e de código aberto. Com o **Penpot**, é possível criar ou melhorar o design da sua aplicação e dos seus dashboards, caso você trabalhe com análise de dados, assim como eu. Com o Penpot, temos a possibilidade de criar equipes para que as pessoas trabalhem juntas em projetos e arquivos. Nas configurações de equipe, podemos definir perfis de trabalho para cada membro adicionado.
 
 ![Design Freedom - Penpot!](/assets/penpot.png "Penpot")
 
 _"Penpot is the Open-Source Design & Prototyping Tool for Product Teams"_
 
-Para instalar o Penpot é muito fácil, com a possibilidade de instalação via Docker se torna ainda mais tranquilo. Abaixo vou mostar o que é preciso para essa instalação, caso ainda não possua o **Docker** na sua máquina, aconselho seguir o passo a passo da instalação na documentação [link](https://docs.docker.com/get-docker/):
+Para instalar o Penpot, é muito fácil. Com a opção de instalação via Docker, o processo fica ainda mais simples. Abaixo, vou mostrar o que é preciso para essa instalação. Caso você ainda não tenha o **Docker** na sua máquina, recomendo seguir o passo a passo da instalação na documentação [Docker Doc](https://docs.docker.com/get-docker/):
 
 Aqui vamos obter o _docker-compose.yaml_ que é o arquivo de configuração que subirá nosso container:
 
@@ -40,7 +40,7 @@ Com a configuração padrão do arquivo _docker-compose.yaml_ as opções de cri
 ~ $ docker exec -ti penpot-penpot-backend-1 python3 ./manage.py create-profile
 Email: teste@teste.org
 Fullname: Paulo
-Password: 
+Password:
 Created: teste@teste.org
 ```
 
@@ -52,7 +52,7 @@ Email: teste@teste.org
 Deleted
 ```
 
-Quem já utiliza outras ferramentas proprietárias similares ao **Penpot** não terá muita dificuldade na sua utilização, com muitas funcionalidades e recursos disponivéis o Penpot não fica para trás de nenhuma forma. Segue o [link](https://help.penpot.app/user-guide/) da documentação que é muito completa onde você poderá dar os primeiros passos nessa ferramenta incrível.
+Quem já usa outras ferramentas proprietárias semelhantes ao **Penpot** não terá muita dificuldade em utilizá-lo. Com muitas funcionalidades e recursos disponíveis, o Penpot não fica atrás de maneira nenhuma. Segue o [link](https://help.penpot.app/user-guide/) da documentação que é muito completa onde você dará os primeiros passos nessa ferramenta incrível.
 
 - Fonte: [https://penpot.app](https://penpot.app/)
 - Guia instalação: [https://help.penpot.app/technical-guide/getting-started/](https://help.penpot.app/technical-guide/getting-started/)
