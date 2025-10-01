@@ -1,10 +1,9 @@
 <header>
-  <div>
-    <a href="{{ "/" | prepend: site.baseurl | replace: '//', '/' }}">
-    {% assign owner_first_name = site.owner | split: " " %}
-    <h1><img src="{{ "./assets/image.png" | relative_url }}" width="50" height="50" type="image/x-icon">{{ owner_first_name[0] | downcase }}@home:~$</h1>
+  <div class="title-header">
+    <a href="{{ "/" | prepend: site.baseurl | replace: '//', '/' }}" target="_blank" title="by {{ site.owner}}">
+    <h1><img src="{{ "./assets/image.png" | relative_url }}" width="50" height="50" type="image/x-icon">code&pirate👽@home:~$</h1>
     </a>
-    <a style="text-align:center;"><h4><i>Malinando em computadores desde 1998</i></h4></a>
+    <a style="text-align:center;"><h4>Códigos, computadores e outros trecos</h4></a>
     <div class="header-links">
       {% include links.html %}
     </div>
