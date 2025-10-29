@@ -1,9 +1,14 @@
-<footer>
-  <a href="https://creativecommons.org/licenses/by-nc/3.0/deed.pt-br">
-    <span>
-        <b>{{ site.owner}}</b>
-    </span>
+<footer class="footer">
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br">
+    <span> {{ site.owner}} </span>
+    <span> • </span>
+    <span> CC BY-NC-SA 4.0 </span>
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="">
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="">
+    <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt="">
+    <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt="">
+    <span> • </span>
     {% capture currentyear %}{{ 'now' | date: "%Y" }}{% endcapture %}
-    <span>© {{ currentyear }}</span>
+    <span>{{ currentyear }}</span>
   </a>
 </footer>
